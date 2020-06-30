@@ -1,3 +1,9 @@
+- FinanceData/OpenDartReader 에서 일부 코드를 수정할 것이 있어서 포크함.
+- 원본 코드를 만들어주신 제작자께 감사하며, 수정 사항이 원본에 반영되어 업그레이드 되면 좋겠음.
+
+---------------------------
+<아래는 원본>
+
 <img width="40%" src="https://i.imgur.com/FMsL0id.png" >
 
 `OpenDartReader`는 금융감독원 전자공시 시스템의 "Open DART"서비스 API를 손쉽게 사용할 수 있도록 돕는 오픈소스 라이브러리 입니다.
